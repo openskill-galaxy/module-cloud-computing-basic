@@ -1,0 +1,41 @@
+{
+  "id": "mod-cloud-computing-basic",
+  "slug": "module-cloud-computing-basic",
+  "title": "云计算与云服务基础",
+  "subtitle": "面向开发运维和云入门者",
+  "description": "面向开发运维和云计算入门者的云服务器VPC安全组对象存储云数据库CDN负载均衡IAM监控Serverless与云上部署训练模块。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "云计算",
+    "云服务器",
+    "VPC",
+    "对象存储",
+    "云数据库",
+    "CDN",
+    "Serverless",
+    "云部署"
+  ],
+  "estimatedHours": 150,
+  "difficulty": "intermediate",
+  "updatedAt": "2026-07-02T12:00:00.000Z",
+  "coverEmoji": "☁",
+  "repoUrl": "https://github.com/openskill-galaxy/module-cloud-computing-basic",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 182,
+    "knowledgePoints": 735,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 126
+  }
+}

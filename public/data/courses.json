@@ -1,0 +1,520 @@
+[
+  {
+    "id": "cc-course-01",
+    "order": 1,
+    "slug": "云计算入门",
+    "title": "云计算入门与学习路线",
+    "description": "云计算定义、发展历史、核心价值、学习路线。",
+    "estimatedHours": 4,
+    "difficulty": "easy",
+    "tags": [
+      "云计算入门与学习路线"
+    ],
+    "lessonIds": [
+      "cc-lesson-001",
+      "cc-lesson-002",
+      "cc-lesson-003",
+      "cc-lesson-004",
+      "cc-lesson-005",
+      "cc-lesson-006",
+      "cc-lesson-007",
+      "cc-lesson-008",
+      "cc-lesson-009",
+      "cc-lesson-010",
+      "cc-lesson-011",
+      "cc-lesson-012",
+      "cc-lesson-013"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解云计算概念",
+      "能使用云服务",
+      "会部署应用",
+      "具备云架构意识"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "cc-course-02",
+    "order": 2,
+    "slug": "云服务模型",
+    "title": "IaaS、PaaS、SaaS 与云服务模型",
+    "description": "三种服务模型区别、部署模型、厂商对比。",
+    "estimatedHours": 6,
+    "difficulty": "easy",
+    "tags": [
+      "IaaS、PaaS、SaaS 与云服务模型"
+    ],
+    "lessonIds": [
+      "cc-lesson-014",
+      "cc-lesson-015",
+      "cc-lesson-016",
+      "cc-lesson-017",
+      "cc-lesson-018",
+      "cc-lesson-019",
+      "cc-lesson-020",
+      "cc-lesson-021",
+      "cc-lesson-022",
+      "cc-lesson-023",
+      "cc-lesson-024",
+      "cc-lesson-025",
+      "cc-lesson-026"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解云计算概念",
+      "能使用云服务",
+      "会部署应用",
+      "具备云架构意识"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "cc-course-03",
+    "order": 3,
+    "slug": "云服务器",
+    "title": "云服务器 ECS/VM 基础",
+    "description": "实例类型、镜像、磁盘、网络、安全组、计费。",
+    "estimatedHours": 10,
+    "difficulty": "medium",
+    "tags": [
+      "云服务器 ECS/VM 基础"
+    ],
+    "lessonIds": [
+      "cc-lesson-027",
+      "cc-lesson-028",
+      "cc-lesson-029",
+      "cc-lesson-030",
+      "cc-lesson-031",
+      "cc-lesson-032",
+      "cc-lesson-033",
+      "cc-lesson-034",
+      "cc-lesson-035",
+      "cc-lesson-036",
+      "cc-lesson-037",
+      "cc-lesson-038",
+      "cc-lesson-039"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解云计算概念",
+      "能使用云服务",
+      "会部署应用",
+      "具备云架构意识"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "cc-course-04",
+    "order": 4,
+    "slug": "云网络VPC",
+    "title": "云网络、VPC、子网与安全组",
+    "description": "VPC原理、子网划分、路由表、公网访问。",
+    "estimatedHours": 10,
+    "difficulty": "medium",
+    "tags": [
+      "云网络、VPC、子网与安全组"
+    ],
+    "lessonIds": [
+      "cc-lesson-040",
+      "cc-lesson-041",
+      "cc-lesson-042",
+      "cc-lesson-043",
+      "cc-lesson-044",
+      "cc-lesson-045",
+      "cc-lesson-046",
+      "cc-lesson-047",
+      "cc-lesson-048",
+      "cc-lesson-049",
+      "cc-lesson-050",
+      "cc-lesson-051",
+      "cc-lesson-052"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解云计算概念",
+      "能使用云服务",
+      "会部署应用",
+      "具备云架构意识"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "cc-course-05",
+    "order": 5,
+    "slug": "对象存储",
+    "title": "云存储与对象存储",
+    "description": "Bucket、对象、权限、CDN加速、存储类型。",
+    "estimatedHours": 8,
+    "difficulty": "easy",
+    "tags": [
+      "云存储与对象存储"
+    ],
+    "lessonIds": [
+      "cc-lesson-053",
+      "cc-lesson-054",
+      "cc-lesson-055",
+      "cc-lesson-056",
+      "cc-lesson-057",
+      "cc-lesson-058",
+      "cc-lesson-059",
+      "cc-lesson-060",
+      "cc-lesson-061",
+      "cc-lesson-062",
+      "cc-lesson-063",
+      "cc-lesson-064",
+      "cc-lesson-065"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解云计算概念",
+      "能使用云服务",
+      "会部署应用",
+      "具备云架构意识"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "cc-course-06",
+    "order": 6,
+    "slug": "云数据库",
+    "title": "云数据库与缓存服务",
+    "description": "RDS、Redis、MongoDB、备份恢复、读写分离。",
+    "estimatedHours": 8,
+    "difficulty": "medium",
+    "tags": [
+      "云数据库与缓存服务"
+    ],
+    "lessonIds": [
+      "cc-lesson-066",
+      "cc-lesson-067",
+      "cc-lesson-068",
+      "cc-lesson-069",
+      "cc-lesson-070",
+      "cc-lesson-071",
+      "cc-lesson-072",
+      "cc-lesson-073",
+      "cc-lesson-074",
+      "cc-lesson-075",
+      "cc-lesson-076",
+      "cc-lesson-077",
+      "cc-lesson-078"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解云计算概念",
+      "能使用云服务",
+      "会部署应用",
+      "具备云架构意识"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "cc-course-07",
+    "order": 7,
+    "slug": "负载均衡",
+    "title": "负载均衡与高可用基础",
+    "description": "SLB原理、监听、后端服务器组、健康检查。",
+    "estimatedHours": 8,
+    "difficulty": "medium",
+    "tags": [
+      "负载均衡与高可用基础"
+    ],
+    "lessonIds": [
+      "cc-lesson-079",
+      "cc-lesson-080",
+      "cc-lesson-081",
+      "cc-lesson-082",
+      "cc-lesson-083",
+      "cc-lesson-084",
+      "cc-lesson-085",
+      "cc-lesson-086",
+      "cc-lesson-087",
+      "cc-lesson-088",
+      "cc-lesson-089",
+      "cc-lesson-090",
+      "cc-lesson-091"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解云计算概念",
+      "能使用云服务",
+      "会部署应用",
+      "具备云架构意识"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "cc-course-08",
+    "order": 8,
+    "slug": "CDN域名HTTPS",
+    "title": "CDN、域名与 HTTPS",
+    "description": "CDN原理、DNS解析、SSL证书、HTTPS配置。",
+    "estimatedHours": 6,
+    "difficulty": "medium",
+    "tags": [
+      "CDN、域名与 HTTPS"
+    ],
+    "lessonIds": [
+      "cc-lesson-092",
+      "cc-lesson-093",
+      "cc-lesson-094",
+      "cc-lesson-095",
+      "cc-lesson-096",
+      "cc-lesson-097",
+      "cc-lesson-098",
+      "cc-lesson-099",
+      "cc-lesson-100",
+      "cc-lesson-101",
+      "cc-lesson-102",
+      "cc-lesson-103",
+      "cc-lesson-104"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解云计算概念",
+      "能使用云服务",
+      "会部署应用",
+      "具备云架构意识"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "cc-course-09",
+    "order": 9,
+    "slug": "IAM权限",
+    "title": "身份权限管理 IAM",
+    "description": "用户、组、角色、策略、最小权限、STS。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "身份权限管理 IAM"
+    ],
+    "lessonIds": [
+      "cc-lesson-105",
+      "cc-lesson-106",
+      "cc-lesson-107",
+      "cc-lesson-108",
+      "cc-lesson-109",
+      "cc-lesson-110",
+      "cc-lesson-111",
+      "cc-lesson-112",
+      "cc-lesson-113",
+      "cc-lesson-114",
+      "cc-lesson-115",
+      "cc-lesson-116",
+      "cc-lesson-117"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解云计算概念",
+      "能使用云服务",
+      "会部署应用",
+      "具备云架构意识"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "cc-course-10",
+    "order": 10,
+    "slug": "监控告警",
+    "title": "云监控、日志与告警",
+    "description": "监控指标、日志服务、告警规则、操作审计。",
+    "estimatedHours": 6,
+    "difficulty": "medium",
+    "tags": [
+      "云监控、日志与告警"
+    ],
+    "lessonIds": [
+      "cc-lesson-118",
+      "cc-lesson-119",
+      "cc-lesson-120",
+      "cc-lesson-121",
+      "cc-lesson-122",
+      "cc-lesson-123",
+      "cc-lesson-124",
+      "cc-lesson-125",
+      "cc-lesson-126",
+      "cc-lesson-127",
+      "cc-lesson-128",
+      "cc-lesson-129",
+      "cc-lesson-130"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解云计算概念",
+      "能使用云服务",
+      "会部署应用",
+      "具备云架构意识"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "cc-course-11",
+    "order": 11,
+    "slug": "Serverless",
+    "title": "Serverless 与函数计算入门",
+    "description": "函数计算、API网关、事件触发、冷启动。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "Serverless 与函数计算入门"
+    ],
+    "lessonIds": [
+      "cc-lesson-131",
+      "cc-lesson-132",
+      "cc-lesson-133",
+      "cc-lesson-134",
+      "cc-lesson-135",
+      "cc-lesson-136",
+      "cc-lesson-137",
+      "cc-lesson-138",
+      "cc-lesson-139",
+      "cc-lesson-140",
+      "cc-lesson-141",
+      "cc-lesson-142",
+      "cc-lesson-143"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解云计算概念",
+      "能使用云服务",
+      "会部署应用",
+      "具备云架构意识"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "cc-course-12",
+    "order": 12,
+    "slug": "云上部署",
+    "title": "云上部署 Web、后端与数据库",
+    "description": "部署架构、高可用方案、弹性伸缩、安全加固。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "云上部署 Web、后端与数据库"
+    ],
+    "lessonIds": [
+      "cc-lesson-144",
+      "cc-lesson-145",
+      "cc-lesson-146",
+      "cc-lesson-147",
+      "cc-lesson-148",
+      "cc-lesson-149",
+      "cc-lesson-150",
+      "cc-lesson-151",
+      "cc-lesson-152",
+      "cc-lesson-153",
+      "cc-lesson-154",
+      "cc-lesson-155",
+      "cc-lesson-156"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解云计算概念",
+      "能使用云服务",
+      "会部署应用",
+      "具备云架构意识"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "cc-course-13",
+    "order": 13,
+    "slug": "成本优化",
+    "title": "成本优化、安全与运维规范",
+    "description": "计费模式对比、成本分析、安全最佳实践。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "成本优化、安全与运维规范"
+    ],
+    "lessonIds": [
+      "cc-lesson-157",
+      "cc-lesson-158",
+      "cc-lesson-159",
+      "cc-lesson-160",
+      "cc-lesson-161",
+      "cc-lesson-162",
+      "cc-lesson-163",
+      "cc-lesson-164",
+      "cc-lesson-165",
+      "cc-lesson-166",
+      "cc-lesson-167",
+      "cc-lesson-168",
+      "cc-lesson-169"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解云计算概念",
+      "能使用云服务",
+      "会部署应用",
+      "具备云架构意识"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "cc-course-14",
+    "order": 14,
+    "slug": "云项目面试",
+    "title": "云计算综合项目与面试训练",
+    "description": "云架构设计、面试题、项目实践。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "云计算综合项目与面试训练"
+    ],
+    "lessonIds": [
+      "cc-lesson-170",
+      "cc-lesson-171",
+      "cc-lesson-172",
+      "cc-lesson-173",
+      "cc-lesson-174",
+      "cc-lesson-175",
+      "cc-lesson-176",
+      "cc-lesson-177",
+      "cc-lesson-178",
+      "cc-lesson-179",
+      "cc-lesson-180",
+      "cc-lesson-181",
+      "cc-lesson-182"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解云计算概念",
+      "能使用云服务",
+      "会部署应用",
+      "具备云架构意识"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  }
+]
