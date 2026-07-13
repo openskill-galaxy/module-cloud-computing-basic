@@ -34,7 +34,23 @@
       "会部署应用",
       "具备云架构意识"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "cc-lesson-001",
+      "cc-lesson-002",
+      "cc-lesson-003",
+      "cc-lesson-004",
+      "cc-lesson-005",
+      "cc-lesson-006",
+      "cc-lesson-007",
+      "cc-lesson-008",
+      "cc-lesson-009",
+      "cc-lesson-010",
+      "cc-lesson-011",
+      "cc-lesson-012",
+      "cc-lesson-013"
+    ],
+    "summary": "云计算定义、发展历史、核心价值、学习路线。"
   },
   {
     "id": "cc-course-02",
@@ -71,7 +87,23 @@
       "会部署应用",
       "具备云架构意识"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "cc-lesson-014",
+      "cc-lesson-015",
+      "cc-lesson-016",
+      "cc-lesson-017",
+      "cc-lesson-018",
+      "cc-lesson-019",
+      "cc-lesson-020",
+      "cc-lesson-021",
+      "cc-lesson-022",
+      "cc-lesson-023",
+      "cc-lesson-024",
+      "cc-lesson-025",
+      "cc-lesson-026"
+    ],
+    "summary": "三种服务模型区别、部署模型、厂商对比。"
   },
   {
     "id": "cc-course-03",
@@ -108,7 +140,23 @@
       "会部署应用",
       "具备云架构意识"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "cc-lesson-027",
+      "cc-lesson-028",
+      "cc-lesson-029",
+      "cc-lesson-030",
+      "cc-lesson-031",
+      "cc-lesson-032",
+      "cc-lesson-033",
+      "cc-lesson-034",
+      "cc-lesson-035",
+      "cc-lesson-036",
+      "cc-lesson-037",
+      "cc-lesson-038",
+      "cc-lesson-039"
+    ],
+    "summary": "实例类型、镜像、磁盘、网络、安全组、计费。"
   },
   {
     "id": "cc-course-04",
@@ -145,7 +193,23 @@
       "会部署应用",
       "具备云架构意识"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "cc-lesson-040",
+      "cc-lesson-041",
+      "cc-lesson-042",
+      "cc-lesson-043",
+      "cc-lesson-044",
+      "cc-lesson-045",
+      "cc-lesson-046",
+      "cc-lesson-047",
+      "cc-lesson-048",
+      "cc-lesson-049",
+      "cc-lesson-050",
+      "cc-lesson-051",
+      "cc-lesson-052"
+    ],
+    "summary": "VPC原理、子网划分、路由表、公网访问。"
   },
   {
     "id": "cc-course-05",
@@ -182,7 +246,23 @@
       "会部署应用",
       "具备云架构意识"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "cc-lesson-053",
+      "cc-lesson-054",
+      "cc-lesson-055",
+      "cc-lesson-056",
+      "cc-lesson-057",
+      "cc-lesson-058",
+      "cc-lesson-059",
+      "cc-lesson-060",
+      "cc-lesson-061",
+      "cc-lesson-062",
+      "cc-lesson-063",
+      "cc-lesson-064",
+      "cc-lesson-065"
+    ],
+    "summary": "Bucket、对象、权限、CDN加速、存储类型。"
   },
   {
     "id": "cc-course-06",
@@ -219,7 +299,23 @@
       "会部署应用",
       "具备云架构意识"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "cc-lesson-066",
+      "cc-lesson-067",
+      "cc-lesson-068",
+      "cc-lesson-069",
+      "cc-lesson-070",
+      "cc-lesson-071",
+      "cc-lesson-072",
+      "cc-lesson-073",
+      "cc-lesson-074",
+      "cc-lesson-075",
+      "cc-lesson-076",
+      "cc-lesson-077",
+      "cc-lesson-078"
+    ],
+    "summary": "RDS、Redis、MongoDB、备份恢复、读写分离。"
   },
   {
     "id": "cc-course-07",
@@ -256,7 +352,23 @@
       "会部署应用",
       "具备云架构意识"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "cc-lesson-079",
+      "cc-lesson-080",
+      "cc-lesson-081",
+      "cc-lesson-082",
+      "cc-lesson-083",
+      "cc-lesson-084",
+      "cc-lesson-085",
+      "cc-lesson-086",
+      "cc-lesson-087",
+      "cc-lesson-088",
+      "cc-lesson-089",
+      "cc-lesson-090",
+      "cc-lesson-091"
+    ],
+    "summary": "SLB原理、监听、后端服务器组、健康检查。"
   },
   {
     "id": "cc-course-08",
@@ -293,7 +405,23 @@
       "会部署应用",
       "具备云架构意识"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "cc-lesson-092",
+      "cc-lesson-093",
+      "cc-lesson-094",
+      "cc-lesson-095",
+      "cc-lesson-096",
+      "cc-lesson-097",
+      "cc-lesson-098",
+      "cc-lesson-099",
+      "cc-lesson-100",
+      "cc-lesson-101",
+      "cc-lesson-102",
+      "cc-lesson-103",
+      "cc-lesson-104"
+    ],
+    "summary": "CDN原理、DNS解析、SSL证书、HTTPS配置。"
   },
   {
     "id": "cc-course-09",
@@ -330,7 +458,23 @@
       "会部署应用",
       "具备云架构意识"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "cc-lesson-105",
+      "cc-lesson-106",
+      "cc-lesson-107",
+      "cc-lesson-108",
+      "cc-lesson-109",
+      "cc-lesson-110",
+      "cc-lesson-111",
+      "cc-lesson-112",
+      "cc-lesson-113",
+      "cc-lesson-114",
+      "cc-lesson-115",
+      "cc-lesson-116",
+      "cc-lesson-117"
+    ],
+    "summary": "用户、组、角色、策略、最小权限、STS。"
   },
   {
     "id": "cc-course-10",
@@ -367,7 +511,23 @@
       "会部署应用",
       "具备云架构意识"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "cc-lesson-118",
+      "cc-lesson-119",
+      "cc-lesson-120",
+      "cc-lesson-121",
+      "cc-lesson-122",
+      "cc-lesson-123",
+      "cc-lesson-124",
+      "cc-lesson-125",
+      "cc-lesson-126",
+      "cc-lesson-127",
+      "cc-lesson-128",
+      "cc-lesson-129",
+      "cc-lesson-130"
+    ],
+    "summary": "监控指标、日志服务、告警规则、操作审计。"
   },
   {
     "id": "cc-course-11",
@@ -404,7 +564,23 @@
       "会部署应用",
       "具备云架构意识"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "cc-lesson-131",
+      "cc-lesson-132",
+      "cc-lesson-133",
+      "cc-lesson-134",
+      "cc-lesson-135",
+      "cc-lesson-136",
+      "cc-lesson-137",
+      "cc-lesson-138",
+      "cc-lesson-139",
+      "cc-lesson-140",
+      "cc-lesson-141",
+      "cc-lesson-142",
+      "cc-lesson-143"
+    ],
+    "summary": "函数计算、API网关、事件触发、冷启动。"
   },
   {
     "id": "cc-course-12",
@@ -441,7 +617,23 @@
       "会部署应用",
       "具备云架构意识"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "cc-lesson-144",
+      "cc-lesson-145",
+      "cc-lesson-146",
+      "cc-lesson-147",
+      "cc-lesson-148",
+      "cc-lesson-149",
+      "cc-lesson-150",
+      "cc-lesson-151",
+      "cc-lesson-152",
+      "cc-lesson-153",
+      "cc-lesson-154",
+      "cc-lesson-155",
+      "cc-lesson-156"
+    ],
+    "summary": "部署架构、高可用方案、弹性伸缩、安全加固。"
   },
   {
     "id": "cc-course-13",
@@ -478,7 +670,23 @@
       "会部署应用",
       "具备云架构意识"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "cc-lesson-157",
+      "cc-lesson-158",
+      "cc-lesson-159",
+      "cc-lesson-160",
+      "cc-lesson-161",
+      "cc-lesson-162",
+      "cc-lesson-163",
+      "cc-lesson-164",
+      "cc-lesson-165",
+      "cc-lesson-166",
+      "cc-lesson-167",
+      "cc-lesson-168",
+      "cc-lesson-169"
+    ],
+    "summary": "计费模式对比、成本分析、安全最佳实践。"
   },
   {
     "id": "cc-course-14",
@@ -515,6 +723,22 @@
       "会部署应用",
       "具备云架构意识"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "cc-lesson-170",
+      "cc-lesson-171",
+      "cc-lesson-172",
+      "cc-lesson-173",
+      "cc-lesson-174",
+      "cc-lesson-175",
+      "cc-lesson-176",
+      "cc-lesson-177",
+      "cc-lesson-178",
+      "cc-lesson-179",
+      "cc-lesson-180",
+      "cc-lesson-181",
+      "cc-lesson-182"
+    ],
+    "summary": "云架构设计、面试题、项目实践。"
   }
 ]
